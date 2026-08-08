@@ -6,7 +6,7 @@ IT entrepreneur.
 
 ## 🧑‍💻 About
 
-- Interested in web, mobile, and desktop development  
+- Interested in game, web, mobile, and desktop development  
 - Strong focus on software architecture and best practices (SOLID, MVC, design patterns)  
 - Highly proficient in Linux environments  
 - Curious, self-reliant, and driven by continuous improvement  
