@@ -11,7 +11,7 @@ J’aime apprendre, expérimenter et construire des projets utiles et bien struc
 - Sensibilité particulière pour l’architecture logicielle et les bonnes pratiques (SOLID, MVC, design patterns)  
 - Très à l’aise avec les environnements Linux  
 - Curieux, autonome et motivé par l’amélioration continue  
-- Objectif professionnel : travailler dans le domaine de l'administration système, des réseaux ou le cloud DevOps
+- Objectif professionnel : Devenir millionnaire avant l'âge de 30 ans.
 
 ---
 
